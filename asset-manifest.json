@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactlivescore/static/css/main.bb3bd381.chunk.css",
+    "main.js": "/reactlivescore/static/js/main.1e378d48.chunk.js",
+    "main.js.map": "/reactlivescore/static/js/main.1e378d48.chunk.js.map",
+    "runtime-main.js": "/reactlivescore/static/js/runtime-main.fdf230f6.js",
+    "runtime-main.js.map": "/reactlivescore/static/js/runtime-main.fdf230f6.js.map",
+    "static/js/2.27cdadec.chunk.js": "/reactlivescore/static/js/2.27cdadec.chunk.js",
+    "static/js/2.27cdadec.chunk.js.map": "/reactlivescore/static/js/2.27cdadec.chunk.js.map",
+    "static/js/3.3d173cc8.chunk.js": "/reactlivescore/static/js/3.3d173cc8.chunk.js",
+    "static/js/3.3d173cc8.chunk.js.map": "/reactlivescore/static/js/3.3d173cc8.chunk.js.map",
+    "index.html": "/reactlivescore/index.html",
+    "static/css/main.bb3bd381.chunk.css.map": "/reactlivescore/static/css/main.bb3bd381.chunk.css.map",
+    "static/js/2.27cdadec.chunk.js.LICENSE.txt": "/reactlivescore/static/js/2.27cdadec.chunk.js.LICENSE.txt",
+    "static/media/vs.7419083b.png": "/reactlivescore/static/media/vs.7419083b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf230f6.js",
+    "static/js/2.27cdadec.chunk.js",
+    "static/css/main.bb3bd381.chunk.css",
+    "static/js/main.1e378d48.chunk.js"
+  ]
+}
